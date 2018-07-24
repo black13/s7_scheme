@@ -1,3 +1,0 @@
-﻿  snd_dax.cpp
-c:\users\jjosburn\documents\programming\s7_scheme\snd_dax\snd_dax.cpp(118): warning C4244: '=': conversion from 's7_int' to 'int', possible loss of data
-  snd_dax.vcxproj -> C:\Users\jjosburn\Documents\programming\s7_scheme\Debug\snd_dax.exe
